@@ -1,0 +1,30 @@
+html, body {
+    width: 100%; 
+    height:100%;
+    margin:0;
+    padding:0;
+    background-color: #000000;
+}
+
+div.text {
+    text-align: center;
+    color: white;
+    font: 32px arial, sans-serif;
+}
+
+#outer {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em;
+    margin-left: -15em;
+}
+
+#uc_img {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
