@@ -9,7 +9,13 @@ html, body {
 div.text {
     text-align: center;
     color: white;
-    font: 32px arial, sans-serif;
+    font: 32px 'Roboto', sans-serif;
+}
+
+div.regular_text {
+    text-align: center;
+    color: white;
+    font: 14pt 'Roboto Condensed', sans-serif;
 }
 
 #outer {
