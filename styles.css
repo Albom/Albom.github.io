@@ -34,3 +34,9 @@ div.regular_text {
     max-width: 300px; 
     max-height: 300px;
 }
+
+.footer {
+    height: 50px;
+    position: absolute; 
+    left: 0 ; right: 0; bottom: 0; 
+}
