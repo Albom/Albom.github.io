@@ -6,8 +6,16 @@ html, body {
     background-color: #000000;
 }
 
+div.main_menu {
+    color: white;
+    height: 50px;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
 div.text {
-    text-align: center;
+    text-align: left;
     color: white;
     font: 32px 'Roboto', sans-serif;
 }
@@ -31,12 +39,17 @@ div.regular_text {
 #uc_img {
     height: auto; 
     width: auto; 
-    max-width: 300px; 
-    max-height: 300px;
+    max-width: 400px; 
+    max-height: 400px;
 }
 
 .footer {
-    height: 50px;
+    height: 120px;
     position: absolute; 
-    left: 0 ; right: 0; bottom: 0; 
+    left: 0 ; right: 0; bottom: 0;
+
+    text-align: center;
+    color: white;
+    font: 14pt 'Roboto Condensed', sans-serif;
+    
 }
