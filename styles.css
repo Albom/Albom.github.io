@@ -39,12 +39,12 @@ div.centered_text {
 }
 
 a, a:visited {
-    color: #fac533;
+    color: #ffffff;
     text-decoration: none;
 }
 
 a:hover, a:active {
-    color: #ffffff;
+    color: #fac533;
     text-decoration: none;
 }
 
